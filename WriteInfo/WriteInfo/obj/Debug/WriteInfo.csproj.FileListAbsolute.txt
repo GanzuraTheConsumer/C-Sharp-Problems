@@ -1,0 +1,6 @@
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\bin\Debug\WriteInfo.exe.config
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\bin\Debug\WriteInfo.exe
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\bin\Debug\WriteInfo.pdb
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\obj\Debug\WriteInfo.csprojResolveAssemblyReference.cache
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\obj\Debug\WriteInfo.exe
+d:\users\goody\documents\visual studio 2017\Projects\WriteInfo\WriteInfo\obj\Debug\WriteInfo.pdb
