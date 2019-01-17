@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\bin\Debug\First Dupe.exe.config
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\bin\Debug\First Dupe.exe
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\bin\Debug\First Dupe.pdb
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\obj\Debug\First Dupe.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\obj\Debug\First Dupe.exe
+d:\documents\visual studio 2017\Projects\First Dupe\First Dupe\obj\Debug\First Dupe.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\obj\Debug\ConsoleApp4.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+d:\documents\visual studio 2017\Projects\Sort\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

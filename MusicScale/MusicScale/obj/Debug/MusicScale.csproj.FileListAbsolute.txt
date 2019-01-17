@@ -1,0 +1,6 @@
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\bin\Debug\MusicScale.exe.config
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\bin\Debug\MusicScale.exe
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\bin\Debug\MusicScale.pdb
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\obj\Debug\MusicScale.csprojResolveAssemblyReference.cache
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\obj\Debug\MusicScale.exe
+c:\users\goody\Documents\Visual Studio 2017\Projects\MusicScale\MusicScale\obj\Debug\MusicScale.pdb

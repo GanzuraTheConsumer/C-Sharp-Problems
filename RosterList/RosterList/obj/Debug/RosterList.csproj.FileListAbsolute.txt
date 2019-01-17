@@ -1,0 +1,6 @@
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\bin\Debug\RosterList.exe.config
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\bin\Debug\RosterList.exe
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\bin\Debug\RosterList.pdb
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\obj\Debug\RosterList.csprojResolveAssemblyReference.cache
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\obj\Debug\RosterList.exe
+d:\users\goody\documents\visual studio 2017\Projects\RosterList\RosterList\obj\Debug\RosterList.pdb

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\bin\Debug\Baum-Sweet.exe.config
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\bin\Debug\Baum-Sweet.exe
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\bin\Debug\Baum-Sweet.pdb
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\obj\Debug\Baum-Sweet.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\obj\Debug\Baum-Sweet.exe
+d:\documents\visual studio 2017\Projects\Baum-Sweet\Baum-Sweet\obj\Debug\Baum-Sweet.pdb

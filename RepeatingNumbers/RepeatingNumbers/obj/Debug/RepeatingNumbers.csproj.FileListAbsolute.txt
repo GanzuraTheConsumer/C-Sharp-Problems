@@ -1,0 +1,6 @@
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.exe.config
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.exe
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\bin\Debug\RepeatingNumbers.pdb
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.exe
+C:\Users\goody\Documents\Visual Studio 2017\Projects\RepeatingNumbers\RepeatingNumbers\obj\Debug\RepeatingNumbers.pdb
