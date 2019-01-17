@@ -1,0 +1,6 @@
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\bin\Debug\Vectors-CrossProduct.exe.config
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\bin\Debug\Vectors-CrossProduct.exe
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\bin\Debug\Vectors-CrossProduct.pdb
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\obj\Debug\Vectors-CrossProduct.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\obj\Debug\Vectors-CrossProduct.exe
+d:\documents\visual studio 2017\Projects\Vectors-CrossProduct\Vectors-CrossProduct\obj\Debug\Vectors-CrossProduct.pdb
